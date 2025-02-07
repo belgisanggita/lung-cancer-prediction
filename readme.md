@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>🫁ParuAI: Your AI Ally in the Fight Against Lung Cancer🚀</h1>
+	<h1>🫁 ParuAI: Your AI Ally in the Fight Against Lung Cancer</h1>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
