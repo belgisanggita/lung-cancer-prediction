@@ -128,7 +128,7 @@ def chat():
         conversation = [SYSTEM_PROMPT, {"role": "user", "content": user_message}]
 
         completion = groq_client.chat.completions.create(
-            model="llama3-70b-8192",
+            model="deepseek-r1-distill-llama-70b",
             messages=conversation,
             temperature=1,
             max_tokens=1024,
